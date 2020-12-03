@@ -42,7 +42,7 @@ body{
 /* HEADER */
 
 .main-head{
-    background: #804D40;
+    background: linear-gradient(rgb(0, 0, 0, 0.4), transparent), #804D40;
     color: #ffffff;
 }
 
